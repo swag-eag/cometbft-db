@@ -52,3 +52,5 @@ require (
 
 // Breaking changes were released with the wrong tag (use v0.6.6 or later).
 retract v0.6.5
+
+replace github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.1
